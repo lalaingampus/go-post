@@ -1,4 +1,4 @@
-<img src="Go-post">
+<img src="go-post/Go-post">
 
 ## Table of contents 👀
 * [General info](#general-info)
