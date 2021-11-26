@@ -1,4 +1,4 @@
-<img src="go-post/Go-post">
+# Golang CRUD with PostgreSQL
 
 ## Table of contents 👀
 * [General info](#general-info)
